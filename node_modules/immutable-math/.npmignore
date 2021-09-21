@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+*.orig
+*.DS_Store
+*.bundle.js
+*.log
+*.map
+*.gz
+*.scssc
+*.gz
+*.sass-cache
+*.swp
